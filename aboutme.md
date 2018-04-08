@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Developer Down Under 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Ryan Santos. I'm a Software Developer living in Melbourne Australia. 
+I started my career in the Philippines and moved to Australia in 2008. I work primarily with C#, ASP.NET & ASP.NET Core
+to help build amazing software.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+When I'm not coding or learning new coding techniques, I enjoy playing guitar, walking and catching up with friends.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### About this blog
+
+
+
+
+
