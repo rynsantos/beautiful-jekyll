@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Software Developer Down Under 
+title: About Me
+subtitle: Software Developer / Coffee Lover
 ---
 
 Hi, my name is Ryan Santos. I'm a Software Developer living in Melbourne Australia. 
