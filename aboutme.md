@@ -17,10 +17,7 @@ When I'm not coding or learning new coding techniques, I enjoy playing guitar, w
 I created this blog to help me keep up with latest in the .NET world. 
 Here I will document my journey as I learn ASP.NET Core, Blazor and the problems I encounter along the way. 
 
-
-As I'm always learning and there is so much to learn in software development. 
-I hope this blog will provide useful information to those learners out there.
- 
+Learning is fun so lets go and write some code!
 
 
 
