@@ -52,8 +52,8 @@ Since I'm following the default angular.json file structure I have to rearrange 
 
 
 #### Rxjs modifications
-In my services component I consume my backend API's through [rxjs](http://reactivex.io/rxjs) using observables 
-so all I have to do is to change how I import the library.
+In my services component when consuming my backend API's I make it asynchronous using [rxjs](http://reactivex.io/rxjs) observables.
+Now all I have to do is to change how I import the library.
 ~~~
 Change 'rxjs/Observable' to just 'rxjs'
 ~~~
