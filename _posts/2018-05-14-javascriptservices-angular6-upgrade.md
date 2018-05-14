@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScriptServices upgrade to Angular 6
+tags: [ASP.NET Core, angular, javascriptservices]
 ---
 
 
@@ -94,4 +95,4 @@ dotnet angular_aspnetcore.dll
 ~~~
 
 
-That's it all done my app now is now utilising the angular6 goodness.
+That's it all done! my app is now utilising the angular6 goodness.
